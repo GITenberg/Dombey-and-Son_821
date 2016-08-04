@@ -1,0 +1,55 @@
+_repo: Dombey-and-Son_821
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "Dombey and Son is a novel by Charles Dickens, published in monthly parts\
+  \ from 1 October 1846 to 1 April 1848 and in one volume in 1848. Its full title\
+  \ is Dealings with the Firm of Dombey and Son: Wholesale, Retail and for Exportation.\
+  \ Dickens started writing the book in Lausanne, Switzerland, before returning to\
+  \ England, via Paris, to complete it. Illustrations were provided by Hablot Knight\
+  \ Browne ('Phiz').\nThere is some concern with the railways and the novel's conception,\
+  \ and writing, belong to the years of the railway boom, 1844–47. The sea, meanwhile,\
+  \ becomes the image of things of 'an older fashion yet', 'the dark and unknown ...\
+  \ that rolls round all the world.'\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '821'
+  wikidata: Q963659
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Family-owned business enterprises -- Fiction'
+- !lcsh 'Businesspeople -- Fiction'
+- !lcsh 'Dysfunctional families -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: Dombey and Son
+url: http://www.gutenberg.org/ebooks/821
+wikipedia:
+- https://fi.wikipedia.org/wiki/Dombey_ja_poika
+- https://fr.wikipedia.org/wiki/Dombey_et_Fils
+- https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D9%85%D8%A8%D9%8A_%D9%88%D8%A7%D8%A8%D9%86%D9%87
+- https://zh.wikipedia.org/wiki/%E8%91%A3%E8%B4%9D%E7%88%B6%E5%AD%90
+- https://pt.wikipedia.org/wiki/Dombey_and_Son
+- https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%A8%DB%8C_%D9%88_%D9%BE%D8%B3%D8%B1
+- https://de.wikipedia.org/wiki/Dombey_und_Sohn
+- https://es.wikipedia.org/wiki/Dombey_e_hijo
+- https://en.wikisource.org/wiki/Dombey_and_Son
+- https://en.wikipedia.org/wiki/Dombey_and_Son
+- https://kw.wikipedia.org/wiki/Dombey_ha_Mab
+- https://it.wikipedia.org/wiki/Dombey_e_Figlio
+- https://ar.wikiquote.org/wiki/%D8%AF
+- https://sv.wikipedia.org/wiki/Dombey_och_son
