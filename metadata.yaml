@@ -1,5 +1,8 @@
 _repo: Dombey-and-Son_821
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -18,6 +21,8 @@ description: "Dombey and Son is a novel by Charles Dickens, published in monthly
   \ and writing, belong to the years of the railway boom, 1844–47. The sea, meanwhile,\
   \ becomes the image of things of 'an older fashion yet', 'the dark and unknown ...\
   \ that rolls round all the world.'\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/821#Dombey-and-Son
 gutenberg_issued: '1997-02-01'
 gutenberg_type: Text
 identifiers:
